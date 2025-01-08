@@ -35,7 +35,7 @@ Tasks completed:
     - "Moons" data with small/big amount of samples.
     - "Blobs" data with small/big amount of samples.
 - Tasks completed:
-    - Found best hyperparameters for BIRCH using Grid-search CV that optimize Homogenity, Completness or V-mesure.
+    - Found best hyperparameters for BIRCH using Grid-search that optimize Homogenity, Completness or V-mesure.
     - Evaluated the stability BIRCH with obtained hyperparameters using the Jaccard index and resampling.
 
 ---
@@ -45,7 +45,7 @@ Tasks completed:
 Tasks completed:
 - Performed EDA for Bakery Transactions Dataset.
 - Using Apriori and FP-Growth algorithms:
-    - Found best hyperparameters for the algorithm to search significant rules using Grid-search CV.
+    - Found best hyperparameters for the algorithm to search significant rules using Grid-search.
     - Found frequent itemsets and significant association rules using obtained hyperparameters.
 - Compared results produced by these two algorithms.
 - Performed predictions for possible goods that might be bought with a given set.
